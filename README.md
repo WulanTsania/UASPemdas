@@ -1,2 +1,2 @@
 # UASPemdas
-UAS Pemdas Semester 1 
+UAS Praktikum Pemdas Semester 1 
